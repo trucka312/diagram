@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-22T06:54:46.519Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="FBAQF60gBLKGnBGfOO_v" version="21.3.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-05-25T07:38:23.267Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="f7xksBEfY7spZW8_rQXi" version="21.3.3" type="github" pages="5">
   <diagram id="ig49iEQAnn9yFJlCMDl3" name="context Diagram">
     <mxGraphModel dx="1379" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -130,7 +130,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="X46Wk6gGZf5E0H3RW-Wr" name="Use-case">
-    <mxGraphModel dx="2261" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2206" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -363,7 +363,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="N4KVGSU_vKVmR2K4NbSI" name="sơ đồ phân rã chức năng">
-    <mxGraphModel dx="1434" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1379" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -726,18 +726,6 @@
             <mxPoint x="870" y="380" as="sourcePoint" />
             <mxPoint x="910" y="279.5" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="bwWEtxXr1xZxLAcO2oss-22" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="800" y="640" as="sourcePoint" />
-            <mxPoint x="800" y="80" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bwWEtxXr1xZxLAcO2oss-23" value="người quản trị" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="920" y="80" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="bwWEtxXr1xZxLAcO2oss-24" value="người dùng" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="230" y="80" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
