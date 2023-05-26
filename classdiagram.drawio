@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-26T02:25:52.962Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="BcvpVIi2jbO2i2feg8QF" version="21.3.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-05-26T04:17:54.976Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="o_LZL0tNRsF5uxbqFUJv" version="21.3.4" type="github" pages="3">
   <diagram name="classs" id="9f46799a-70d6-7492-0946-bef42562c5a5">
     <mxGraphModel dx="1379" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -88,7 +88,7 @@
         <mxCell id="78961159f06e98e8-56" value="TÀI KHOẢN" style="swimlane;html=1;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
           <mxGeometry x="430" y="500" width="160" height="238" as="geometry" />
         </mxCell>
-        <mxCell id="78961159f06e98e8-57" value="+ soTK : int" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="78961159f06e98e8-56" vertex="1">
+        <mxCell id="78961159f06e98e8-57" value="+ ID" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="78961159f06e98e8-56" vertex="1">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="78961159f06e98e8-58" value="+ tenTK :string" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="78961159f06e98e8-56" vertex="1">
@@ -183,7 +183,7 @@
           <mxGeometry x="640" y="510" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CHevLxWmDW71-d9Ft6-R-69" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="450" y="430" width="60" height="30" as="geometry" />
+          <mxGeometry x="1110" y="700" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CHevLxWmDW71-d9Ft6-R-72" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="200" y="230" width="60" height="30" as="geometry" />
@@ -252,7 +252,7 @@
           <mxGeometry y="104" width="160" height="8" as="geometry" />
         </mxCell>
         <mxCell id="XNHA5ZMXJttgnHEcXFN6-6" value="TIN TỨC" style="swimlane;html=1;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
-          <mxGeometry x="430" y="290" width="160" height="146.25" as="geometry" />
+          <mxGeometry x="1090" y="560" width="160" height="146.25" as="geometry" />
         </mxCell>
         <mxCell id="XNHA5ZMXJttgnHEcXFN6-7" value="+tenNCC :string" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="XNHA5ZMXJttgnHEcXFN6-6" vertex="1">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
