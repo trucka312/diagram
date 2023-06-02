@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-02T05:05:24.613Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="tCeYjlsRWoZLLk1WF5wX" version="21.3.7" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-06-02T05:06:08.432Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="0zi2V_jtmqrSQrtPieON" version="21.3.7" type="github" pages="9">
   <diagram id="ig49iEQAnn9yFJlCMDl3" name="context Diagram">
     <mxGraphModel dx="1586" dy="895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2276,7 +2276,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tsa_UhBcoKdM4z4X_KVO-3" value="NGƯỜI DÙNG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tsa_UhBcoKdM4z4X_KVO-3" value="NGƯỜI QUẢN TRỊ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="140" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tsa_UhBcoKdM4z4X_KVO-4" value="yêu cầu duyệt" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="tsa_UhBcoKdM4z4X_KVO-3">
