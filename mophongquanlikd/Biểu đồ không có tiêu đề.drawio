@@ -1,1 +1,86 @@
-<mxfile host="app.diagrams.net" modified="2022-10-13T14:13:29.402Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="T82heBN6LNNr0qY8rv4k" version="20.4.0" type="github"><diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">7ZjLcpswFIafhmU6RhgbL2Pn0kU6yTSdSbOU4QTUCMQIEeM+fSUQYC5OcGrctNOVpV8XxP/pnMPYsFZhds1xHHxhHlADTbzMsC4MhEyELPmjlK1WTAcVis+Jp7VauCc/QYsTrabEg6QxUTBGBYmbosuiCFzR0DDnbNOc9sRo86kx9qEj3LuYdtUH4omgUB17UuufgfhB+WRzokdCXE7WQhJgj212JOvSsFacMVG0wmwFVLlX+lKsu9ozWh2MQySGLLCidHmV8YW7vZnE0e3DN4Svz/QuL5im+oUN6/x2/UNZWZxabEsr5AvEqpmG9IY8ASWR7C1j4CQEAVyOUC3f1dpSghFYamrczPuU4jgh63zbiVQ4uClPyAt8haTgn6ssjTzwdK8yL+8Izp4rHGpT/RbABWR77TEr0+V1BSYPyLdySnVXNSd9Ux3d3dTUK7bBDnGrFLG+aX61dQ1DNjSPA9igLps2kpiRSOTPtZeGfdHCwbgImM8iTHeBHN/Y/Tdrr9tTu2H2vM/srtfmYiyvrY7XHkliLNyg47kyg8gEcU6JH0lpzYRgYe4e5uJc5RzlvdxKahB5pbKmzH0up+lE5wwlAF4nTQ3xXyZLzH14bR7q58SBYiFjsplQe2zXS+/UTaz5npn9gMsdEpZyF/SiFrvqFO/HOf2HQ8du5qkqb70RO85YoWP/LyFZqxR8mBIy+6vjwD6khPSa3VNCZmN5Pe94zUGkPBpeQHaKBYtBDi09nAS5z2YxvFM2ICPiuzZdtR9V+9PCfndFKVLy25dpWEUZFDe/WWTQvHkFkDVrblEcdbQq4xzho6HnA0G6xrcVWtV5PCTSDgeLBoKd/SmwnaAd+fNh0QEr0dE1lniOAtY8EdihETs9Gdhps0KiduUbGWxZEU6dpM2TJenph4vlNnJ7fqQkLbv1vyfF9PpPKOvyFw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2024-03-13T15:49:30.263Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="7pjcPM-sySkI9sAQP0Ml" version="24.0.5" type="github" pages="2">
+  <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
+    <mxGraphModel dx="762" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="HINjqvhtpdeOXOZjh3Ra" name="Trang-2">
+    <mxGraphModel dx="1615" dy="544" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YrLgs8H5snsHIOQGFjwJ-8" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="YrLgs8H5snsHIOQGFjwJ-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="127" y="143.33334350585938" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YrLgs8H5snsHIOQGFjwJ-1" value="Phát triển branding công ty TNHH Phú Mạnh trên sàn thương mại điện tử Shopee" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-22" y="46" width="298" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YrLgs8H5snsHIOQGFjwJ-2" value="Digital maketing còn non yếu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-118" y="191" width="120" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="YrLgs8H5snsHIOQGFjwJ-3" value="Môi trường cạnh tranh cao, nhiều kênh cạnh tranh không lành mạnh" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="171" y="191" width="199" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="YrLgs8H5snsHIOQGFjwJ-4" value="Hạn chế về nguồn vốn và quản lí rủi ro" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="24" y="191" width="120" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="YrLgs8H5snsHIOQGFjwJ-5" value="Chưa có nhiều kinh nghiệm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-398" y="191" width="120" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="YrLgs8H5snsHIOQGFjwJ-6" value="Khó khăn trong việc tiếp cận khách hàng và tìm kiếm khách hàng tiềm năng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="392" y="191" width="239" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="YrLgs8H5snsHIOQGFjwJ-7" value="Thiếu nhân sự chất lượng cao&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-258" y="191" width="120" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="YrLgs8H5snsHIOQGFjwJ-9" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-338" y="143" as="sourcePoint" />
+            <mxPoint x="526" y="144" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YrLgs8H5snsHIOQGFjwJ-10" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="YrLgs8H5snsHIOQGFjwJ-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-338" y="143" as="sourcePoint" />
+            <mxPoint x="-201" y="58" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YrLgs8H5snsHIOQGFjwJ-11" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-198.24" y="143" as="sourcePoint" />
+            <mxPoint x="-198.24" y="191" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YrLgs8H5snsHIOQGFjwJ-12" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="276" y="146" as="sourcePoint" />
+            <mxPoint x="276" y="194" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YrLgs8H5snsHIOQGFjwJ-13" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="526" y="143" as="sourcePoint" />
+            <mxPoint x="526" y="191" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YrLgs8H5snsHIOQGFjwJ-14" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="86" y="143" as="sourcePoint" />
+            <mxPoint x="86" y="191" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YrLgs8H5snsHIOQGFjwJ-15" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-58.41999999999999" y="143" as="sourcePoint" />
+            <mxPoint x="-58.41999999999999" y="191" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
