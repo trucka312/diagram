@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-15T14:40:07.787Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="UJ3akLiVIj2gUoV5PIRC" version="24.0.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-03-15T14:43:03.214Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="SIVkh5ZHQ9yBLJryYZUo" version="24.0.5" type="github" pages="3">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="967" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -209,8 +209,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="fJa1FQgfOADJzY0QvEIQ" name="Trang-3">
-    <mxGraphModel dx="3623" dy="1487" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="fJa1FQgfOADJzY0QvEIQ" name="thu lợi - cây mục tiêu">
+    <mxGraphModel dx="1538" dy="525" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -219,7 +219,7 @@
             <mxPoint x="311" y="151.33334350585938" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IP-h5-ecy6k2Rr79LSjm-43" value="Phát triển branding công ty TNHH Phú Mạnh trên sàn thương mại điện tử Shopee" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IP-h5-ecy6k2Rr79LSjm-43" value="Xây dựng thương hiệu bền vững cho công ty TNHH Phú Mạnh trên sàn TMDT Shopee&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="162" y="54" width="298" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IP-h5-ecy6k2Rr79LSjm-44" value="Digital marketing còn non yếu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
