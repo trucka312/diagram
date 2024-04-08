@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-08T18:48:11.477Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="4Hmvc4QwpJ1eo1nvwIKo" version="24.2.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-04-08T18:56:40.956Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="2lnPzkaYvY4xPWNYotkn" version="24.2.3" type="github" pages="5">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="343" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -210,7 +210,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fJa1FQgfOADJzY0QvEIQ" name="thu lợi - cây mục tiêu">
-    <mxGraphModel dx="743" dy="460" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="462" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
