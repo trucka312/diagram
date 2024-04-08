@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-23T05:01:10.387Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="eygR_ISzur6Uc14GdeZt" version="24.0.7" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-04-08T18:48:11.477Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="4Hmvc4QwpJ1eo1nvwIKo" version="24.2.3" type="github" pages="5">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="1434" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="343" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -210,7 +210,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fJa1FQgfOADJzY0QvEIQ" name="thu lợi - cây mục tiêu">
-    <mxGraphModel dx="1834" dy="704" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="743" dy="460" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -222,16 +222,16 @@
         <mxCell id="IP-h5-ecy6k2Rr79LSjm-43" value="Xây dựng thương hiệu bền vững cho công ty TNHH Phú Mạnh trên sàn TMDT Shopee&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="162" y="54" width="298" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IP-h5-ecy6k2Rr79LSjm-44" value="Digital maketing mang lại hiệu quả" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="66" y="199" width="120" height="35" as="geometry" />
+        <mxCell id="IP-h5-ecy6k2Rr79LSjm-44" value="Đẩy mạnh Digital MKT và dịch vụ CSKH" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="66" y="199" width="129" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="IP-h5-ecy6k2Rr79LSjm-45" value="Độc quyền thương hiệu trên sàn" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="IP-h5-ecy6k2Rr79LSjm-45" value="Xây dựng PT thương hiệu và đăng kí bản quyền cho sản&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="355" y="199" width="199" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="IP-h5-ecy6k2Rr79LSjm-46" value="Gia tăng nguồn vốn đầu tư" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="208" y="199" width="120" height="35" as="geometry" />
+        <mxCell id="IP-h5-ecy6k2Rr79LSjm-46" value="Thu hút nguồn vốn đầu tư từ nhiều nguồn" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="208" y="199" width="130" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="IP-h5-ecy6k2Rr79LSjm-47" value="Hướng đến khách hàng" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="IP-h5-ecy6k2Rr79LSjm-47" value="PT một tệp KH thân thiết và KH tiềm năng" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="581" y="199" width="134" height="35" as="geometry" />
         </mxCell>
         <mxCell id="IP-h5-ecy6k2Rr79LSjm-48" value="Đẩy mạnh cải thiện chất lượng nhân sự&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
