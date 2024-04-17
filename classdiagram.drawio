@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-17T09:36:43.555Z" agent="Mozilla/5.0 (iPhone; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/137.2.345735309 Mobile/15E148 Safari/604.1" etag="px8zWWV31Zz3kChLxXGm" version="24.2.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-04-17T09:36:50.435Z" agent="Mozilla/5.0 (iPhone; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/137.2.345735309 Mobile/15E148 Safari/604.1" etag="F-arR5flYTvGmzG66mHg" version="24.2.5" type="github" pages="4">
   <diagram name="classs" id="9f46799a-70d6-7492-0946-bef42562c5a5">
     <mxGraphModel dx="426" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -237,7 +237,7 @@
           <mxGeometry x="1110" y="100" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XNHA5ZMXJttgnHEcXFN6-1" value="VOUCHER" style="swimlane;html=1;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
-          <mxGeometry x="80" y="200" width="160" height="146.25" as="geometry" />
+          <mxGeometry x="160" y="300" width="160" height="146.25" as="geometry" />
         </mxCell>
         <mxCell id="XNHA5ZMXJttgnHEcXFN6-2" value="+tenNCC :string" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="XNHA5ZMXJttgnHEcXFN6-1" vertex="1">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
