@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-06T15:37:05.299Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="ITEijJzKFU4TEZxSlN6q" version="24.3.1" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2024-05-07T17:17:27.217Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="6j687ctDTSIygPem44Kn" version="24.3.1" type="github" pages="12">
   <diagram id="ig49iEQAnn9yFJlCMDl3" name="context Diagram">
-    <mxGraphModel dx="1434" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -130,7 +130,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="X46Wk6gGZf5E0H3RW-Wr" name="Use-case">
-    <mxGraphModel dx="2261" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2117" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -363,7 +363,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="N4KVGSU_vKVmR2K4NbSI" name="sơ đồ phân rã chức năng">
-    <mxGraphModel dx="1434" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -611,7 +611,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uDZyFwPzDo1QpG_1RDig" name="sơ đồ ngữ cảnh mức 1">
-    <mxGraphModel dx="1434" dy="1873" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="1726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1118,7 +1118,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kFtvwmCENyzVA-bFXjR6" name="Page-6">
-    <mxGraphModel dx="1434" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1380,7 +1380,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="cbAeN5YnTL3_pESwjGur" name="đăng nhập">
-    <mxGraphModel dx="1434" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1587,7 +1587,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="G0Dg77btS9V1j7lzgpEI" name="Đặt món">
-    <mxGraphModel dx="1586" dy="895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1773,7 +1773,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="N2KNprSb5xPvAtobVB-0" name="tìm kiếm">
-    <mxGraphModel dx="1562" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1867,7 +1867,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Qn5jVuADeh-oHOEJl1zW" name="đánh giá">
-    <mxGraphModel dx="1434" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1985,7 +1985,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="C-BHBJeUCbcWMpAHbVxE" name="đặt bàn">
-    <mxGraphModel dx="1562" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2125,7 +2125,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="PFsjpawoaNUOqNQrbKNe" name="quản lí hệ thống">
-    <mxGraphModel dx="1562" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2372,7 +2372,7 @@
         <mxCell id="geYy2MMbi2xb35UuKttq-1" value="5.5.QUẢN LÍ &lt;br&gt;Vourcher" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="120" y="500" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="HoJWXe0DD8Ni4GMKUn6b-1" value="xem, thêm, &lt;br&gt;sửa xóa, ẩn&amp;nbsp;&lt;br&gt;vourcher" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-ZkMRUacQfqUz9W0z3O6-1" target="geYy2MMbi2xb35UuKttq-1">
+        <mxCell id="HoJWXe0DD8Ni4GMKUn6b-1" value="xem, thêm, &lt;br&gt;sửa xóa, ẩn&amp;nbsp;&lt;br&gt;vourcher" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" source="-ZkMRUacQfqUz9W0z3O6-1" target="geYy2MMbi2xb35UuKttq-1" edge="1">
           <mxGeometry x="0.0632" y="45" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="270" y="450" as="sourcePoint" />
             <mxPoint x="420" y="587" as="targetPoint" />
@@ -2380,7 +2380,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HoJWXe0DD8Ni4GMKUn6b-2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="HoJWXe0DD8Ni4GMKUn6b-2" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="590" as="sourcePoint" />
             <mxPoint x="350" y="590" as="targetPoint" />
@@ -2389,7 +2389,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HoJWXe0DD8Ni4GMKUn6b-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="HoJWXe0DD8Ni4GMKUn6b-3" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="640" as="sourcePoint" />
             <mxPoint x="350" y="640" as="targetPoint" />
@@ -2398,10 +2398,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HoJWXe0DD8Ni4GMKUn6b-4" value="vourcher" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="HoJWXe0DD8Ni4GMKUn6b-4" value="vourcher" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="260" y="600" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HoJWXe0DD8Ni4GMKUn6b-5" value="lưu hành động" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="geYy2MMbi2xb35UuKttq-1">
+        <mxCell id="HoJWXe0DD8Ni4GMKUn6b-5" value="lưu hành động" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="geYy2MMbi2xb35UuKttq-1" edge="1">
           <mxGeometry y="10" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="450" as="sourcePoint" />
             <mxPoint x="300" y="590" as="targetPoint" />
@@ -2411,7 +2411,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HoJWXe0DD8Ni4GMKUn6b-6" value="phản hồi xác nhận" style="endArrow=classic;html=1;rounded=0;entryX=0.431;entryY=0.991;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="geYy2MMbi2xb35UuKttq-1">
+        <mxCell id="HoJWXe0DD8Ni4GMKUn6b-6" value="phản hồi xác nhận" style="endArrow=classic;html=1;rounded=0;entryX=0.431;entryY=0.991;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="geYy2MMbi2xb35UuKttq-1" edge="1">
           <mxGeometry x="0.1377" y="10" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="620" as="sourcePoint" />
             <mxPoint x="570" y="400" as="targetPoint" />
@@ -2420,6 +2420,23 @@
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="cnDLZ_udus_ldf8aMhMZ" name="Trang-12">
+    <mxGraphModel dx="1290" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Iz5xv3pJAyQ3HZenFRLZ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Iz5xv3pJAyQ3HZenFRLZ-1" target="Iz5xv3pJAyQ3HZenFRLZ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iz5xv3pJAyQ3HZenFRLZ-1" value="&lt;div&gt;Nguoi quan tri&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="150" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Iz5xv3pJAyQ3HZenFRLZ-3" value="Quản lý tài khoản" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="140" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
