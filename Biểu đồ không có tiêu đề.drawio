@@ -96,11 +96,6 @@
             <mxPoint y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JgKTAMoBZRytk4Ou2eBv-1" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="ELiwssUr8Izet5XUTpir-2">
-          <mxGeometry x="-0.2874" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ELiwssUr8Izet5XUTpir-4" value="XÁC NHẬN ĐƠN HÀNG" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ELiwssUr8Izet5XUTpir-1" target="z6Ch50XuBMpxpcuVGFrX-2" edge="1">
           <mxGeometry x="-0.3043" y="15" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="410" as="sourcePoint" />
