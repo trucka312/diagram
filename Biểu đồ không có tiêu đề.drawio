@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Mobile/15E148 Safari/604.1" version="24.7.10" pages="12">
   <diagram id="ig49iEQAnn9yFJlCMDl3" name="context Diagram">
-    <mxGraphModel dx="455" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="341" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -94,6 +94,11 @@
         <mxCell id="ELiwssUr8Izet5XUTpir-3" value="YÊU CẦU ĐẶT ĐỒ ĂN" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ELiwssUr8Izet5XUTpir-2" vertex="1" connectable="0">
           <mxGeometry x="0.269" y="2" relative="1" as="geometry">
             <mxPoint y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JgKTAMoBZRytk4Ou2eBv-1" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="ELiwssUr8Izet5XUTpir-2">
+          <mxGeometry x="-0.2874" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ELiwssUr8Izet5XUTpir-4" value="XÁC NHẬN ĐƠN HÀNG" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ELiwssUr8Izet5XUTpir-1" target="z6Ch50XuBMpxpcuVGFrX-2" edge="1">
