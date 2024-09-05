@@ -86,6 +86,9 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="100" y="295" as="sourcePoint" />
             <mxPoint x="380" y="140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="550" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ELiwssUr8Izet5XUTpir-3" value="YÊU CẦU ĐẶT ĐỒ ĂN" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ELiwssUr8Izet5XUTpir-2" vertex="1" connectable="0">
